@@ -11,3 +11,5 @@
 4. Run TerrariaServer.exe to create the ServerPlugins folder
 5. Copy and paste TShockAPI.dll into \ServerPlugins
 5. Enjoy!
+
+might need to replace the OTAPI= referenced in TShockAPI with the same OTAPI referenced by TerrariaServerAPI
